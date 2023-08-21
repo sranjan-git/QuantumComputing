@@ -1,0 +1,106 @@
+														Created by Sudhanshu Ranjan
+													----------------------------------------
+
+> Q# offers a high level of abstraction.
+
+Azure Quantum
+===============
+Cloud service with a diverse set of quantum solutions and technologies.
+
+Parts of Azure Quantum
+========================
+1)Quantum Computing:  and 
+2)Optimization.
+	Develop solutions that help you reduce the costs of operation in a broad range of fields
+such as finance, energy cost, fleet management, scheduling and more.
+
+Azure Quantum Features
+=========================
+Quantum Computing and optimization solutions
+Explore at your own pace on a trusted and secure platform.
+$13300 hardware credits.
+Own tools and lang. Quantum Py SDKs.
+Test algo with free and scalable simulators.
+
+
+Azure Quantum Applications
+=================================
+
+> Industry Solutions
+> Developers: code in Q# to develop app like vscode etc
+> Researcher: Test algorithms and theories, 
+> Quantum Enthusiasts: Learn, Build, Deploy.
+
+Azure Quantum Workspace
+==========================
+Can use in Jupyter Notebook ar in CLI.
+
+Azure Account.
+
+Azure Quantum Jobs
+=====================
+It uploads job vacancies on the portal, aferwards you can apply, then goes onto the waiting area.
+Cancel state. 
+
+Workflow of the Quantum Software Development
+==============================================
+
+Diagrammatic Representation.
+
+Quantum cloud solutions available on Azure Quantum
+=====================================================
+
+Once we have validated that our code correctness and estimated that it is fit to run on the 
+hardware, we are ready to submit our program to Azure Quantum.
+
+Quantum computing providers: Quantinuum, IONQ, Quantum Circuits, Inc
+Optimization providers: 1QBit, Microsoft QIO, Toshiba SBM.
+
+
+Jupyter Notebooks Options in Azure Quantum
+=============================================
+
+Using keyboard shortcuts is the fastest way to use Azure Quantum Workspace.
+
+We can access all shortcuts here:
+Three dots > Keybinding > Shortcuts available to use.
+
+Exploring features in Quantum Workspace
+=========================================
+
+Alerts : We can create alerts. Also, we can put up certain conditions.
+
+Activity Graphs
+
+Creating Quantum Workspace using CLI
+=======================================
+Please refer to this link for detailed explanation: https://learn.microsoft.com/en-us/azure/quantum/how-to-manage-quantum-workspaces-with-the-azure-cli
+
+
+
+https://chat.openai.com/?model=text-davinci-002-render-sha
+
+> We can add role assignments.
+
+Optimization
+===============
+It is the process of finding the best solution to a problem
+from a set of possible options, given its desired outcome
+and constraints.
+
+Quantum Inspired Optimization
+===============================
+
+Azure Quantum Optimization Techniques
+========================================
+Parallel Temperimng - Copies of a system are kept at a diff temperature.
+Simulated Annealing - simulation method which mimics the slow cooling of a substance, to remove imperfections.
+Population Annealing - 
+Quantum Monte Carlo - mimics the quantum annealing method by using the quantum monte carlo simulations.
+Substochastic Monte Carlo - diffusion monte carlo algo inspired by adiabatic quantum computation, it simulates the diffusion of a population of walkers in the search space, where walkers are removed or duplicated, based on how they perform, at the cost function. 
+Tabu Search - neighbouring configurations, accepts versioning moves,
+
+Applications
+===============
+
+
